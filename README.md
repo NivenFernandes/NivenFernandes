@@ -13,7 +13,7 @@
 
 - 💸 I am on the finance committee of the **Student Association Senate**
 
-- 📧 Feel free to contact me on **niven.fernandes@mines.sdsmt.edu or https://www.linkedin.com/in/nivenfernandes/**
+- 📧 Contact me at **niven.fernandes@mines.sdsmt.edu or https://www.linkedin.com/in/nivenfernandes/**
 
 <p align="left">
 </p>
