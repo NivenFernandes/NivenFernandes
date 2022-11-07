@@ -1,7 +1,7 @@
 
 - 👋 Hi, I'm Niven Fernandes
 
-- 🏫 I am a computer science student @ **South Dakota school of Mines and Technology**
+- 🏫 I am a computer science student @ **South Dakota School of Mines and Technology**
 
 - 🔭 I’m Passionate about **cloud computing, cybersecurity and application development**
 
