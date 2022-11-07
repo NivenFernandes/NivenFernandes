@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niven Fernandes</h1>
-<h3 align="center">I am a computer science student @ South Dakota school of Mines and Technology</h3>
+<h3>I am a computer science student @ South Dakota school of Mines and Technology</h3>
 
 - 🔭 I’m Passionate about **cloud computing, cybersecurity and application development**
 
