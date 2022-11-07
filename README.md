@@ -5,7 +5,7 @@
 
 - 🔭 I’m Passionate about **cloud computing, cybersecurity and application development**
 
-- 🧑‍🏫 I am academic tutor at **South Dakota School of Mines and technology**
+- 🧑‍🏫 I am an academic tutor at **South Dakota School of Mines and technology**
 
 - 🤝 I’m happy to collaborate on **C++, Python, Java, and Swift projects**
 
