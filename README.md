@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently learning **Django Framework and iOS development**
 
-- 🏛️ I am the International Senator of **South Dakota School of Mines and technology**
-
-- 💸 I am on the finance committee of the **Student Association Senate**
-
 - 📧 Contact me at **niven.fernandes@mines.sdsmt.edu or https://www.linkedin.com/in/nivenfernandes/**
 
 <p align="left">
