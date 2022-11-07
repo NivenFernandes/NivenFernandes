@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niven Fernandes</h1>
+
+- 👋 Hi, I'm Niven Fernandes
 
 - 🏫 I am a computer science student @ **South Dakota school of Mines and Technology**
 
