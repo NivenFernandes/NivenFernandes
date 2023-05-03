@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working on **Django, ASP.NET and React projects**
 
-- 🌐 Check out my react career advancement [website](https://advancement.netlify.app/) and ASP.NET core BrightStart recruitment [website] (https://brightstart20230417144202.azurewebsites.net/)
+- 🌐 Check out my react career advancement [website](https://advancement.netlify.app/) and ASP.NET core BrightStart recruitment [web app](https://brightstart20230417144202.azurewebsites.net/)
 
 - 📧 Contact me at **niven.fernandes@mines.sdsmt.edu or https://www.linkedin.com/in/nivenfernandes/**
 
